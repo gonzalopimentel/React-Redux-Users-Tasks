@@ -16,4 +16,4 @@ En components, tenemos el template de Usuarios en su index.js y dentro esta todo
 Tambien en components tenemos App.js donde es el origen y donde se manejan las 2 rutas ( / y tareas ) y tambien el menu.
 El menu, utiliza el metodo { Link } de react-router-dom para el manejo de rutas sin recarga de la pagina.
 
-Y eso sería todo.
+.........
